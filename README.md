@@ -4,7 +4,7 @@
 ## Know:
 - C# (.NET 6/Mono)
 - Python
-- 
+
 # Currently working on:
 - Developing "Monolog", that is simple tool for creating microblogs with own marking language
 
