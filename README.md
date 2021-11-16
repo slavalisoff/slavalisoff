@@ -2,14 +2,11 @@
 
 # Languages
 ## Know:
-- Vanilla JavaScript
-- Java(Minecraft mods, CLI and Swing)
-
+- C# (.NET 6/Mono)
+- Python
+- 
 # Currently working on:
-- Developing little Minecraft mods with little additions
-
-# Contacts
-- Write me an email to slava@s1avalisoff.ru
+- Developing "Monolog", that is simple tool for creating microblogs with own marking language
 
 <!--
 **slavalisoff/slavalisoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
