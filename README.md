@@ -6,7 +6,7 @@
 - Python
 
 # Currently working on:
-- Developing "Monolog", that is simple tool for creating microblogs with own marking language
+- Rewriting SPM.NET
 
 <!--
 **slavalisoff/slavalisoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
